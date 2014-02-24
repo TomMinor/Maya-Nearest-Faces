@@ -1,6 +1,6 @@
 Utility script to select the nearest 2 faces
 
-----Use----
+*Use*
 Place nearestFace.py in your maya \scripts folder
 
 import nearestFace
